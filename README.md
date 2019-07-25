@@ -7,9 +7,9 @@
 
 
 Questions Answered :
-Q1. Number of centuries scored by each country at WACA Ground. \n
-Q2. Result when HOME batsman scores a century. \n
-Q3. Result when away batsman scores a century. \n
-Q4. Centuries scored in different innings. \n
-Q5. Strike rate by innings. \n
-Q6. Conversion into Final Scores. \n
+- Q1. Number of centuries scored by each country at WACA Ground. 
+- Q2. Result when HOME batsman scores a century. 
+- Q3. Result when away batsman scores a century. 
+- Q4. Centuries scored in different innings. 
+- Q5. Strike rate by innings. 
+- Q6. Conversion into Final Scores.
